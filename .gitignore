@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Deep learning
+*.h5
+*.pt
+*.ckpt
+*.pth
+*.onnx
+*.npy
+*.npz
+
+# Misc
+.DS_Store
